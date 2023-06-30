@@ -2,8 +2,6 @@ name: Pikafish
 
 on:
   workflow_dispatch:
-      branches:
-      - master
 
 jobs:
   Pikafish:
